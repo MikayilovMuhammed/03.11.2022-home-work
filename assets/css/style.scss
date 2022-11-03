@@ -1,0 +1,31 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.info{
+    text-align: center;
+    font-size: 40px;
+    font-style: italic;
+}
+
+.inputs{
+    
+    input{
+        display: block;
+        padding: 10px;
+        width: 50%;
+        margin: 10px auto;
+    }
+
+    .btn{
+        display: block;
+        border-radius: 10px;
+        border: 1px solid blue;
+        padding: 15px 45px;
+        color: white;
+        background-color: #5b5be0;
+        margin: auto;
+        cursor: pointer;
+    }
+}
